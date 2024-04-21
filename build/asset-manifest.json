@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RogPaginas/build/static/css/main.ff02f4b5.css",
+    "main.js": "/RogPaginas/build/static/js/main.6c5115d1.js",
+    "static/js/453.3281203d.chunk.js": "/RogPaginas/build/static/js/453.3281203d.chunk.js",
+    "index.html": "/RogPaginas/build/index.html",
+    "main.ff02f4b5.css.map": "/RogPaginas/build/static/css/main.ff02f4b5.css.map",
+    "main.6c5115d1.js.map": "/RogPaginas/build/static/js/main.6c5115d1.js.map",
+    "453.3281203d.chunk.js.map": "/RogPaginas/build/static/js/453.3281203d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.6c5115d1.js"
+  ]
+}
